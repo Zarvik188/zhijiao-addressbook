@@ -123,6 +123,9 @@ for (const [id, only] of [['all', false], ['favorites', true]]) {
   };
 }
 
+// Clear a stale server validation message as the user corrects the form.
+$('#contact-form').addEventListener('input', () => { $('#form-error').textContent = ''; });
+
 $('#contact-form').onsubmit = async event => {
   event.preventDefault();
   const form = event.target;
