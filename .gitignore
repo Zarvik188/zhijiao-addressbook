@@ -3,3 +3,6 @@ __pycache__/
 *.db-shm
 *.db-wal
 .venv/
+docs/recording/
+docs/recording2/
+docs/running-record/

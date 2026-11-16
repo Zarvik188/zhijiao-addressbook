@@ -1,0 +1,17 @@
+test_bad_header (test_addressbook.AddressBookTests.test_bad_header) ... ok
+test_broken_file (test_addressbook.AddressBookTests.test_broken_file) ... ok
+test_empty_template (test_addressbook.AddressBookTests.test_empty_template) ... ok
+test_favorite_survives_reopen (test_addressbook.AddressBookTests.test_favorite_survives_reopen) ... ok
+test_formula_is_rejected (test_addressbook.AddressBookTests.test_formula_is_rejected) ... ok
+test_import_appends_same_name (test_addressbook.AddressBookTests.test_import_appends_same_name) ... ok
+test_import_is_atomic (test_addressbook.AddressBookTests.test_import_is_atomic) ... ok
+test_input_validation (test_addressbook.AddressBookTests.test_input_validation) ... ok
+test_label_without_value_is_rejected (test_addressbook.AddressBookTests.test_label_without_value_is_rejected) ... ok
+test_multiple_methods_roundtrip (test_addressbook.AddressBookTests.test_multiple_methods_roundtrip) ... ok
+test_one_row_per_contact_and_text_cells (test_addressbook.AddressBookTests.test_one_row_per_contact_and_text_cells) ... ok
+test_update_and_delete (test_addressbook.AddressBookTests.test_update_and_delete) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.296s
+
+OK
