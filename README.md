@@ -41,7 +41,7 @@ python -m unittest discover -s tests -v
 - [浏览器播放演示视频](https://zarvik188.github.io/zhijiao-addressbook/)
 - [下载原始 MP4](docs/通讯录核心功能演示.mp4)
 - [代码规范](codestyle.md)
-- [主要运行界面](docs/assets/01-contact.jpg)
+- [主要运行界面](docs/assets/01-contact-hd.png)
 
 视频约 1 分 56 秒，含 27 个章节字幕，无解说，使用虚构联系人演示新建、多电话及邮箱、收藏、搜索、刷新、Excel 导出和导入。静态页面仅播放录像，不是通讯录应用的云端部署。
 
